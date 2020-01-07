@@ -1,6 +1,6 @@
 # LearnJavaScript
 
-### Important **JavaScript** Topics and Programs before learning Cypress.io or Puppeteer or Taiko Automation
+Important **JavaScript** Topics and Programs before learning _Cypress.io_ or _Puppeteer_ or _Taiko_ Automation
 
 ### 01) [Hello World](introduction/01_HelloWorld.js)
 
