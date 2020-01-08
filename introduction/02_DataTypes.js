@@ -15,9 +15,6 @@
 console.log("Hello World");
 console.log(typeof "Hello World"); // string
 
-console.log("India");
-console.log(typeof "India"); // string
-
 let name = "programming";
 console.log(`JavaScript ${name}`);
 console.log(typeof `JavaScript ${name}`); // string
@@ -36,8 +33,3 @@ console.log(null, typeof null); // object
 console.log([], typeof []); // object
 console.log({}, typeof {}); // object
 console.log(Symbol("id"), typeof Symbol("id")); // symbol
-
-console.log(Boolean(1)); // true
-console.log(Boolean()); // false
-console.log(Boolean("")); // false
-console.log(Boolean(" ")); // true
