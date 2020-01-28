@@ -1,5 +1,5 @@
 // Array is a special kind of object, suited to storing and managing ordered data items.
-
+// Arrays are Dynamic in JavaScript
 // There are two syntaxes for creating an empty array:
 let array1 = new Array();
 let array2 = [];
@@ -13,6 +13,8 @@ console.log(fruits); // [ 'Apple', 'Orange', 'Grape' ]
 console.log(fruits[0]); // Apple
 console.log(fruits[1]); // Orange
 console.log(fruits[2]); // Grape
+console.log(fruits[3]); // undefined
+console.log(fruits[-1]); // undefined
 
 // We can replace an element:
 fruits[2] = "Banana";

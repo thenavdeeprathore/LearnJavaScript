@@ -1,7 +1,8 @@
 /**
  * ***** Types of data *****
- * There are 8 basic data types in JavaScript.
+ * There are 2 types of data in JavaScript.
  *
+ * A) Primitive data types:
  * 1) number: integer/floating-point.
  * 2) bigint: is for integer numbers of arbitrary length.
  * 3) string: A string may have one or more characters, there’s no separate single-character type.
@@ -10,6 +11,11 @@
  * 6) undefined: for unassigned values
  * 7) object: for more complex data structures
  * 8) symbol: for unique identifiers
+ *
+ * B) Reference data types:
+ * 1) Object
+ * 2) Array
+ * 3) Function
  */
 
 console.log("Hello World");
