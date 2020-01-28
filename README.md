@@ -39,4 +39,4 @@ Important **JavaScript** Topics and Programs before learning _Test Automation_ o
 
 ### 10) [Objects](introduction/10_Objects.js)
 
-### 11) [Objects](introduction/11_ForLoop.js)
+### 11) [For Loop](introduction/11_ForLoop.js)
