@@ -1,6 +1,15 @@
 # LearnJavaScript
 
-Important **JavaScript** Topics and Programs before learning _Cypress.io_ or _Puppeteer_ or _Taiko_ Automation
+Important **JavaScript** Topics and Programs before learning _Test Automation_ on any below tools:
+
+1. Cypress.io
+2. TestCafe
+3. WebdriverIO
+4. Puppeteer
+5. Taiko
+6. Nightwatch
+7. Protractor
+8. Karma
 
 ## Plugins:
 
