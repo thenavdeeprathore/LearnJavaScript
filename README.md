@@ -27,3 +27,5 @@ Important **JavaScript** Topics and Programs before learning _Cypress.io_ or _Pu
 ### 08) [Array Methods](introduction/08_ArrayMethods.js)
 
 ### 09) [Functions](introduction/09_Functions.js)
+
+### 10) [Objects](introduction/10_Objects.js)
