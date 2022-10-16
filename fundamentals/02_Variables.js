@@ -13,6 +13,7 @@
 let firstName = "Navdeep";
 console.log(firstName);
 
+// ! var variable Outdated. till ES5 (ES2015).
 var lastName = "Rathore";
 console.log(lastName);
 
@@ -40,6 +41,7 @@ let z = 10;
 z = "Chris"; // reassignment possible for variable let
 console.log(z); // Chris
 
+// ! const variable can't be reassigned
 const n = 11;
 // n = "Vicky";  //TypeError: Assignment to constant variable.
 console.log(n); // 11

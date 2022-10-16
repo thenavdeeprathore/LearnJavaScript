@@ -34,7 +34,11 @@ console.log(true, typeof true); // boolean
 console.log(false, typeof false); // boolean
 console.log(123n, typeof 123n); // bigint
 console.log(undefined, typeof undefined); // undefined
+// ! typeof null is showing as an object which is a bug in javascript. should be null rather.
 console.log(null, typeof null); // object
+// array
 console.log([], typeof []); // object
+// object
 console.log({}, typeof {}); // object
+// outdated (we don't use it anymore)
 console.log(Symbol("id"), typeof Symbol("id")); // symbol

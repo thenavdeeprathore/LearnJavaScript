@@ -47,15 +47,3 @@ VS Code Settings:
 ### 04) [Operators](introduction/04_Operators.js)
 
 ### 05) [Comparisons](introduction/05_Comparisons.js)
-
-### 06) [Type Conversions](introduction/06_TypeConversions.js)
-
-### 07) [Arrays](introduction/07_Arrays.js)
-
-### 08) [Array Methods](introduction/08_ArrayMethods.js)
-
-### 09) [Functions](introduction/09_Functions.js)
-
-### 10) [Objects](introduction/10_Objects.js)
-
-### 11) [For Loop](introduction/11_ForLoop.js)
