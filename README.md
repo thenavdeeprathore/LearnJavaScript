@@ -1,29 +1,48 @@
 # Learn JavaScript Programming
 
-Important **JavaScript** Topics and Programs before learning _Test Automation_ on any below tools:
+Important **JavaScript** Topics and Programs before learning _Test Automation Tools_ on any below tools:
 
-1. Cypress.io
-2. TestCafe
+1. Cypress
+2. Playwright
 3. WebdriverIO
 4. Puppeteer
-5. Taiko
-6. Nightwatch
-7. Protractor
-8. Karma
+5. Nightwatch
+6. Protractor
+7. TestCafe
 
-## Plugins:
+## Setup:
+```
+Code Editor: VS Code
 
-- IDE - VS Code
-- Plugin - TabNine
-- Plugin - Code runner
-- Plugin - JavaScript Test Runner
-- Plugin - JavaScript (ES6) code snippets
+Plugins:
+--------
+- Monokai Pro
+- Material Icon Theme
+- Better Comments
+- Code Spell Checker
+- CodeSnap
+- Code Runner
+- Path Autocomplete
+- Path Intellisense
+- Auto Close Tag
+- Auto Rename Tag
+- npm Intellisense
+- Peacock
+- ESLint
+- Live Server
+- GitLens
+
+VS Code Settings:
+----------------
+- Auto Save: onFocusChange
+- Format On Save: Enable
+```
 
 ### 01) [Hello World](introduction/01_HelloWorld.js)
 
-### 02) [Data Types](introduction/02_DataTypes.js)
+### 02) [Variables](introduction/02_Variables.js)
 
-### 03) [Variables](introduction/03_Variables.js)
+### 03) [Data Types](introduction/03_DataTypes.js)
 
 ### 04) [Operators](introduction/04_Operators.js)
 
