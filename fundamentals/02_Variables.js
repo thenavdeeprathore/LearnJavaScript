@@ -15,6 +15,7 @@ console.log(firstName);
 
 var lastName = "Rathore";
 console.log(lastName);
+
 const city = "Pune";
 console.log(city);
 
@@ -22,6 +23,7 @@ let x;
 console.log(x); // undefined
 console.log(typeof x); // undefined
 
+// ! Not a good practice to use name as a variable.
 let name = "John";
 console.log(name); // John
 console.log(typeof name); // string

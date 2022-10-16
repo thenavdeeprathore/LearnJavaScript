@@ -1,6 +1,6 @@
 # Learn JavaScript Programming
 
-Important **JavaScript** Topics and Programs before learning _Test Automation Tools_ on any below tools:
+Important **JavaScript** Topics and Programs before learning _Test Automation_ on any below mentioned tools:
 
 1. Cypress
 2. Playwright
@@ -38,7 +38,7 @@ VS Code Settings:
 - Format On Save: Enable
 ```
 
-### 01) [Hello World](introduction/01_HelloWorld.js)
+### 01) [Hello World](fundamentals/01_HelloWorld.js)
 
 ### 02) [Variables](introduction/02_Variables.js)
 
