@@ -1,12 +1,30 @@
+// ***** Types of Operator *****
 /**
- * Types of Operator:
- *
- * Arithmetic
+ * Arithmetic: +, -
  * Assignment
  * Ternary
  * Comparison
  * Logical
  * Binary
+ */
+
+// ***** Operator Precedence *****
+/**
+ * ()
+ * x++, x--
+ * ~, !, ++x, --x, typeof, void, delete, await
+ * **
+ * /, *, %
+ * +, -
+ * <<, >>, >>>
+ * <, <=, >, >=, in
+ * ==, !=, ===, !==
+ * &
+ * ^
+ * |
+ * &&
+ * ||, ??
+ * Assignment 
  */
 
 //-----Arithmetic-----
@@ -23,7 +41,7 @@ console.log("ABC" + 123); //ABC123
 console.log("ABC" + 2 + 2); //ABC22
 console.log(2 + 2 + "ABC"); //4ABC
 console.log("ABC" + (2 + 2)); //ABC4
-console.log("ABC" + [2 + 3]); //ABC5
+console.log("ABC" + [ 2 + 3 ]); //ABC5
 
 let n1 = 23.23;
 let n2 = 45;

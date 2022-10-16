@@ -2,17 +2,16 @@
  * ***** Types of data *****
  * There are 2 types of data in JavaScript.
  *
- * A) Primitive data types:
+ * A) 7 Primitive data types:
  * 1) number: integer/floating-point.
  * 2) bigint: is for integer numbers of arbitrary length.
  * 3) string: A string may have one or more characters, there’s no separate single-character type.
  * 4) boolean: true/false
  * 5) null: for unknown values
  * 6) undefined: for unassigned values
- * 7) object: for more complex data structures
- * 8) symbol: for unique identifiers
+ * 7) symbol: for unique identifiers
  *
- * B) Reference data types:
+ * B) Object data types:
  * 1) Object
  * 2) Array
  * 3) Function
@@ -22,8 +21,8 @@ console.log("Hello World");
 console.log(typeof "Hello World"); // string
 
 let name = "programming";
-console.log(`JavaScript ${name}`);
-console.log(typeof `JavaScript ${name}`); // string
+console.log(`JavaScript ${ name }`);
+console.log(typeof `JavaScript ${ name }`); // string
 
 console.log("X");
 console.log(typeof "X"); // string
